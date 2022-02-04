@@ -35,6 +35,7 @@
     }
 
     td {
+        height: 100%;
         width: 50%;
     }
 
